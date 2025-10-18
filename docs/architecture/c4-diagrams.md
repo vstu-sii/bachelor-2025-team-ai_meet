@@ -21,3 +21,6 @@
 - **CI/CD**: GitHub Actions
 - **Мониторинг**: Prometheus + Grafana
 - **Логи**: ELK Stack
+
+- ![Context diagram](https://github.com/vstu-sii/bachelor-2025-team-ai_meet/blob/lab2-AS-deliverables/docs/images/Context%20Diagram.png)
+- ![Container diagram](https://github.com/vstu-sii/bachelor-2025-team-ai_meet/blob/lab2-AS-deliverables/docs/images/Container%20Diagram.png)
